@@ -1,0 +1,6 @@
+com\app\todoapp\modelo\Tarea.class
+com\app\todoapp\interfaceService\ItareaService.class
+com\app\todoapp\interfaces\ITarea.class
+com\app\todoapp\controler\Controlador.class
+com\app\todoapp\TodoappApplication.class
+com\app\todoapp\service\TareaService.class
